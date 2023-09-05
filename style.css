@@ -1,0 +1,42 @@
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#green{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
+.color-title{
+    font-weight: normal;
+}
+img{
+    height:350px;
+    width:350px;
+}
+/*the actual css*/
+.h1{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 0;;
+    background-image: linear-gradient(to right,rgb(249, 140, 140),rgb(159, 235, 245),rgb(249, 199, 163),rgb(149, 240, 149),rgb(246, 246, 169));
+    height:500px;
+    font-size: 72px;
+    
+    
+}
+#help{
+    margin-top: 25px;
+    color: rgb(69, 68, 69);
+    font-size: 36px;
+}
+body{
+    background-color: rgb(17, 18, 17);
+}
+
